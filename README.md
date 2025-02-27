@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Sou estudante do Instituto Fedral do Tocantins
 - 🔭 Estou no 3° ano do curso de Informática
-- 💬 E-mail: isadora.azevedo2estudante.ifto.edu.br
+- 💬 E-mail: isadora.azevedo@estudante.ifto.edu.br
 - 😄 Pronouns: ela/dela
 
 div>
