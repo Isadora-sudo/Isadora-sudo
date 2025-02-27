@@ -7,7 +7,7 @@
 
 div>
   <a href= "https://github.com/isadora-sudo">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=isadora=true&theme=gruvbox"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=isadora&show=true&theme=gruvbox"/>
     
 </div>
 
