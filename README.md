@@ -1,6 +1,6 @@
 ## Olá, eu sou a Isadora Jardim 👋
 
-- 👨‍🎓 Sou estudante do Instituto Fedral do Tocantins
+- 👨‍🎓 Sou estudante do Instituto Federal do Tocantins
 - 🔭 Estou no 3° ano do curso de Informática
 - 💬 E-mail: isadora.azevedo@estudante.ifto.edu.br
 - 😄 Pronouns: ela/dela
